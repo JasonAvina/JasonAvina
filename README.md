@@ -2,7 +2,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/JasonAvina?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=4CAF50)](https://github.com/JasonAvina)
 
-ML Engineer with a strong foundation in **statistics** and **machine learning**. Also, I have some experience with **full stack development** and **systems programming**. *I'm just trying to build a healthier world, one line of code at a time* 🌱
+ML Engineer with a strong foundation in **statistics** and **machine learning**. Also, I have some experience with **full stack development** and **systems programming**. 
+
+*I'm just trying to build a healthier world, one line of code at a time* 🌱
 
 ---
 
