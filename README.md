@@ -8,9 +8,11 @@ ML Engineer with a strong foundation in **statistics** and **machine learning**.
 
 ## 🔬 Featured Projects
 
-### Machine Learning & Data Science
+### Data Science
+- [**A/B Testing with t-Tests**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/abtesting) – Custom hypothesis testing program designed from scratch mathematically. Then coded into an interactive statistical hypothesis testing tool.
+
+### Machine Learning
 - [**Diabetes Regression Models**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/diabetes) – AI-powered predictive system using ensemble methods
-- [**A/B Testing with t-Tests**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/abtesting) – Interactive statistical hypothesis testing tool
 
 ### Automation & AI Integration
 - [**Email Automation Bot**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/automation) – Eliminated 5+ hours/week of manual work
