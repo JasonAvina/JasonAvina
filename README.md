@@ -16,9 +16,10 @@ ML Engineer with a strong foundation in **statistics** and **machine learning**.
 ### Machine Learning
 - [**Diabetes Regression Models**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/diabetes) – AI-powered predictive system using ensemble methods
 
-### Automation & AI Integration
-- [**Email Automation Bot**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/automation) – Eliminated 5+ hours/week of manual work
+### AI API Integration
 - [**Sentiment Analysis Pipeline**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/sentiment) – LLM-powered social media monitoring with Reddit API + OpenAI
+- [**Email Automation Bot**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/automation) – Eliminated 5+ hours/week of manual work
+
 
 ---
 
