@@ -10,16 +10,19 @@ ML Engineer with a strong foundation in **statistics** and **machine learning**.
 
 ## 🔬 Featured Projects
 
+### AI Research
+- [**slm-json-benchmark**](https://github.com/JasonAvina/slm-json-benchmark) – Benchmarking study of JSON extraction by small language models (local inference)
+
+### Machine Learning 
+- [**emo-classifier**](https://github.com/JasonAvina/emo-classifier) – Image classification model for emotion detection
+- [**Diabetes Regression Models**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/diabetes) – Predictive system using ensemble methods
+
 ### Data Science
-- [**A/B Testing with t-Tests**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/abtesting) – Custom hypothesis testing program designed from scratch mathematically. Then coded into an interactive statistical hypothesis testing tool.
+- [**A/B Testing with t-Tests**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/abtesting) – Custom hypothesis testing program built from scratch
 
-### Machine Learning
-- [**Diabetes Regression Models**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/diabetes) – AI-powered predictive system using ensemble methods
-
-### AI API Integration
-- [**Sentiment Analysis Pipeline**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/sentiment) – LLM-powered social media monitoring with Reddit API + OpenAI
+### Automation & LLM Integration
+- [**Sentiment Analysis Pipeline**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/sentiment) – Social media monitoring with Reddit API + OpenAI
 - [**Email Automation Bot**](https://github.com/JasonAvina/JasonAvina.github.io/tree/main/automation) – Eliminated 5+ hours/week of manual work
-
 
 ---
 
